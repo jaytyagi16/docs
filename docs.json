@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Relinns Technologies",
+  "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,13 +11,19 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "How Botpenguin Works?",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Create New Chatbot",
             "pages": [
-              "index",
-              "jay"
+              "how-botpenguin-works/website_chatbot",
+              "how-botpenguin-works/landing_page_chatbot",
+              "how-botpenguin-works/whatsApp_chatbot",
+              "how-botpenguin-works/instagram_chatbot",
+              "how-botpenguin-works/facebook_chatbot",
+              "how-botpenguin-works/telegram_chatbot",
+              "how-botpenguin-works/microsoft_teams_bot",
+              "how-botpenguin-works/make_your_live_chatbot"
             ]
           },
           {
